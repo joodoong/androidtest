@@ -12,7 +12,7 @@ public class AndroidtestActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        int a;
+        int abc;
         Button btn1 = (Button) findViewById(R.id.btn1);
 		btn1.setOnClickListener(new OnClickListener() {
 			@Override
