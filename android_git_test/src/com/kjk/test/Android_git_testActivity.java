@@ -12,5 +12,6 @@ public class Android_git_testActivity extends Activity {
         
         int a;
         int b;
+        int d;
     }
 }
