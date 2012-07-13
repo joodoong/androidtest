@@ -11,5 +11,6 @@ public class Android_git_testActivity extends Activity {
         setContentView(R.layout.main);
         
         int a;
+        int b;
     }
 }
