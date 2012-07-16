@@ -13,6 +13,7 @@ public class AndroidtestActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         int abc;
+        int d;
         Button btn1 = (Button) findViewById(R.id.btn1);
 		btn1.setOnClickListener(new OnClickListener() {
 			@Override
